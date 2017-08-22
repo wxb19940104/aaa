@@ -5,7 +5,6 @@
 public class Demo1 {
     int x=9;
     public static void second(){
-
     }
     public int sum(int x,int y){
         System.out.println(x+y);
